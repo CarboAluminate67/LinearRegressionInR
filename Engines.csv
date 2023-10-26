@@ -1,0 +1,19 @@
+﻿Engine,Fuel,Thrust (tf),Weight (kg),Cycle,Ispvac,Ispatm
+Raptor 2,Methane,185,1600,Full Flow,363,327
+Merlin,RP-1,86,470,Open,311,282
+RS-25,Hydrogen,190,3177,Fuel Rich,452,366
+RD-180,RP-1,391,5480,Oxygen Rich,338,311
+F-1,RP-1,690,8400,Open,304,263
+NK-33,RP-1,154,1240,Oxygen Rich,331,297
+Vulcaine,Hydrogen,110,1300,Open,431,326
+RS-68,Hydrogen,320,6745,Open,412,365
+J-2X,Hydrogen,134,2470,Open,448,221
+YF-100,RP-1,122,2303,Oxygen Rich,335,300
+RD-810,RP-1,192,2800,Oxygen Rich,335,299
+RD-191,RP-1,196,2290,Oxygen Rich,337,311
+RL-10,Hydrogen,7,301,Expander,465,N/A
+J-2,Hydrogen,50,1788,Open,421,200
+LE-7,Hydrogen,86,1714,Fuel Rich,446,349
+RD-270,UDMH,639,3370,Full Flow,322,301
+RD-861,UDMH,8,123,Open,317,N/A
+Vikas-2,UDMH,61,900,Open,281,248
